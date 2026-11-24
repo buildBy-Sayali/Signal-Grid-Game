@@ -4,7 +4,7 @@ A responsive visual pattern-recall browser game built with **HTML**, **CSS**, an
 
 ## Live Demo
 Play directly via GitHub Pages:  
-`https://buildBy-Sayali.github.io/Signal-Grid-Game/`
+ https://buildby-sayali.github.io/Signal-Grid-Game/
 
 ## How to Play
 1. Click **Start Game** to begin at **Level 1** with **3 lives**.
